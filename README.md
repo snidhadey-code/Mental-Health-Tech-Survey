@@ -1,3 +1,5 @@
+🚀 **Live Streamlit Dashboard:** [Click here to view the interactive dashboard](https://mental-health-tech-survey-t8kdymrsiaoxvqqujuygbc.streamlit.app/)
+
 # Mental Health in Tech Survey – EDA & Streamlit Dashboard
 
 ## Project Overview
